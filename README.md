@@ -90,7 +90,7 @@ vehicle_price_predictor/
 
 1️⃣ Clone the repository:
 
-git clone https://github.com/Adityawagh786/Vehicle_Price_Predictor.git
+git clone https://github.com/jayeshchaudhari-ai/Vehicle_Price_Predictor.git
 cd Vehicle_Price_Predictor
 
 
